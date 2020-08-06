@@ -16,3 +16,4 @@
 * Vision
 * Wasp
 * Antman
+* Chapulin Colorado
