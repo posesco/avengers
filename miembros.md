@@ -1,5 +1,5 @@
 # Miembros
-* Nick Fury
+* Nick Fury -- PeloConcha
 * Capitán Marvel
 * Black panther
 * Black Widow
